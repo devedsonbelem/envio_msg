@@ -1,4 +1,4 @@
-# Projeto Envio de Msg
+# Projeto Node com Envio de SMS
 
 * NodeJs
 * MySql
